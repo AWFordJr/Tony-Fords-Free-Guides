@@ -6,6 +6,9 @@
 
 ### 📥 [Download the free PDF guide (17 pages)](Catch-the-Leak-Email-Catch-All-Guide-by-Tony-Ford.pdf)
 
+> [!WARNING]
+> **Read this first: only do this if you'll keep your domain.** Every address you hand out only works while you own the domain. If you forget to renew it, or decide you don't want it anymore, someone else can buy it. From then on, every email sent to your addresses goes to the new owner: password resets, receipts, account alerts, all of it. That can let a stranger take over your accounts. If you ever plan to let a domain go, first log in to every site and service you used it with and change the email to one you'll keep. Only do this if you'll keep the domain paid, keep a list of every account you set up on it, and turn on auto-renew.
+
 ## The idea in one minute
 
 Most of us give the same email address to everyone. When the spam starts, we have no idea who let it out.
